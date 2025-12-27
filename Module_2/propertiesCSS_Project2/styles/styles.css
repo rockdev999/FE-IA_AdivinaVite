@@ -1,0 +1,23 @@
+* {
+    border: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    height: 10%;
+}
+main {
+    background-color: whitesmoke;
+    height: 80vh;
+    text-align: center;
+}
+footer {
+    background-color: thistle;
+    padding: 20px;
+}
